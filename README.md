@@ -3,6 +3,8 @@
 ## Project Overview
 ### Problem Statement:
 Managing and analyzing customer data effectively to gain insights and support business decisions.
+- [ProjectLink](https://drive.google.com/drive/folders/1qoJCuItGXsH42NXFXnOj_CyvRbC5aEy9)
+  
 
 ### Solution Overview:
 We built a robust data engineering pipeline combining:
