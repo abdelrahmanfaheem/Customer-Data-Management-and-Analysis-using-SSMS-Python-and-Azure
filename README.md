@@ -1,0 +1,1 @@
+# Customer-Data-Management-and-Analysis-using-SSMS-Python-and-Azure
